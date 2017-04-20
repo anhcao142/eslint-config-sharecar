@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-sharecar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Sharecar javascript style",
     "main": "index.js",
     "scripts": {
