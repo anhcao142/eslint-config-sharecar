@@ -1,6 +1,7 @@
 eslint-config-sharecar
 ========================
-[![Dependency Status](https://img.shields.io/david/dylang/npm-check.svg)](https://david-dm.org/boylove142/eslint-config-sharecar)
+[![npm version](https://badge.fury.io/js/eslint-config-sharecar.svg)](https://badge.fury.io/js/eslint-config-sharecar)
+[![DevDependency Status](https://david-dm.org/boylove142/eslint-config-sharecar/dev-status.svg)](https://david-dm.org/boylove142/eslint-config-sharecar?type=dev)]
 
 This style is built upon the Airbnb javascript coding style with some custom rules defined by ShareCar.vn
 
