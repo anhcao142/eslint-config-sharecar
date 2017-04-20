@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-sharecar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Sharecar javascript style",
     "main": "index.js",
     "scripts": {
@@ -23,7 +23,7 @@
     "homepage": "https://github.com/boylove142/eslint-config-sharecar",
     "devDependencies": {
         "eslint": "^3.19.0",
-        "eslint-config-airbnb": "lastest",
+        "eslint-config-airbnb": "^14.1.0",
         "eslint-find-rules": "^1.14.3",
         "eslint-plugin-import": "^2.2.0",
         "in-publish": "^2.0.0",
