@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sharecar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sharecar javascript style",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   "devDependencies": {
     "eslint": "^3.15.0",
     "eslint-find-rules": "^1.14.3",
-    "eslint-plugin-import": "^2.2.0",
     "in-publish": "^2.0.0",
     "safe-publish-latest": "^1.1.1"
   },
@@ -37,6 +36,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.9.0"
   }
