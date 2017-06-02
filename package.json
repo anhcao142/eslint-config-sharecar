@@ -4,7 +4,8 @@
   "description": "Sharecar javascript style",
   "main": "index.js",
   "scripts": {
-    "prepublish": "safe-publish-latest"
+    "prepublish": "npm run snyk-protect && safe-publish-latest",
+    "snyk-protect": "snyk protect"
   },
   "repository": {
     "type": "git",
@@ -38,6 +39,8 @@
     "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.9.0"
-  }
+    "eslint-plugin-react": "^6.9.0",
+    "snyk": "^1.33.0"
+  },
+  "snyk": true
 }
