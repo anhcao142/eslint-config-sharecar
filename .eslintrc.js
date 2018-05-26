@@ -1,7 +1,5 @@
 module.exports = {
-    extends: [
-        'airbnb',
-    ],
+    "extends": "airbnb-base",
     rules: {
         indent: [
             'error',
